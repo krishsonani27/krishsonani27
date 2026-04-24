@@ -1,23 +1,24 @@
-<img align="left" width="180" src="D:\leisures\my p" />
+<img align="left" width="180" src="YOUR_IMAGE_LINK_HERE" />
 
-# 👋 Krish Sonani  
-### Data Analyst | Financial Analytics | BI & Risk Analytics  
+# 👋 Krish Sonani
+### Business Analytics & AI Graduate | Marketing Analytics | Data Analyst
 
-📊 Data Analyst with **3+ years of experience** across Banking & Financial Services, turning complex data into insights that drive smarter decisions. Experienced in dashboards, predictive modeling, risk analysis, and cloud-based data pipelines.
-
----
-
-## 🚀 About Me  
-
-- 💼 **Data Analyst @ Bank of America** (USA)  
-- 🏦 Former **Data Analyst @ American Express**  
-- 🎓 MS in **Business Analytics & Artificial Intelligence** @ UT Dallas  
-- 📈 Specialized in **Financial Analytics, Risk Modeling, BI Dashboards**  
-- 🔍 Actively seeking **Data Analyst / BI / Analytics roles**
+📊 Graduate student specializing in **Business Analytics, Digital Marketing Analytics, and AI-driven insights**.  
+Experienced in campaign analytics, dashboard development, KPI reporting, and data storytelling to drive measurable business growth.
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🚀 About Me
+
+- 🎓 MS in **Business Analytics & Artificial Intelligence** — UT Dallas
+- 📈 Focused on **Marketing Analytics, BI Dashboards & Data Analytics**
+- 📊 Experience in **Digital Marketing Performance & Data Reporting**
+- 🤖 Passionate about **AI + Data + Business Strategy**
+- 🔎 Actively seeking **Data Analyst / Marketing Analyst / BI Analyst roles**
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -26,50 +27,76 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
 </p>
 
-**Analytics & BI:** Tableau · Power BI · Looker Studio  
-**Python Stack:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Statsmodels  
-**Data & Cloud:** Azure Data Lake · Synapse · BigQuery · ETL Pipelines  
-**Other:** Excel (Macros, Pivot Tables) · Agile · JIRA · Confluence  
+**Analytics & Visualization:** Tableau · Power BI · Looker Studio  
+**Marketing Analytics:** Google Analytics · Facebook Ads · SEMRush · A/B Testing  
+**Python Stack:** Pandas · NumPy · Matplotlib · Scikit-learn  
+**Data Skills:** SQL · Dashboard Development · KPI Analysis · Reporting Automation  
+**Tools:** Excel · Hootsuite · Google Tag Manager · Adobe Analytics
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Professional Experience
 
-### 🏦 Bank of America — Data Analyst  
-**Dec 2024 – Present | USA**  
-- Built **5+ Power BI dashboards** tracking loan portfolios, ESG metrics, and investment KPIs across **$750M+ assets**  
-- Optimized ETL pipelines using **Azure Data Lake & Synapse**, saving **120+ hours/month**  
-- Improved reporting accuracy to **99%** and budgeting efficiency by **12%**
+### 🎓 University of Texas at Dallas — Marketing Student Assistant  
+**Jul 2024 – May 2025 | Texas, USA**
 
-### 💳 American Express — Data Analyst  
-**Jan 2021 – Aug 2023 | India**  
-- Developed Tableau & Power BI dashboards for **$1.2B+ portfolios**  
-- Reduced loan default exposure by **$8M annually** using Python & SQL risk models  
-- Improved forecast accuracy by **12%** using Excel-based financial modeling  
+- Ran Facebook promotional campaigns improving event engagement
+- Managed multi-platform social media analytics using Hootsuite
+- Created performance dashboards & reports for stakeholders
+- Produced marketing visuals & analytics presentations
 
 ---
 
-## 🧠 Projects  
+### 📊 Monkey Ads — Digital Marketing Analyst  
+**May 2022 – Jul 2023 | India**
 
-### 🤖 UTD AI Chatbot — LLM Implementation  
-- Built an academic assistant using **Llama 3.2 (3B)** with Python  
-- Processed **10GB+ data** and fine-tuned using **QLoRA**  
-- Improved response accuracy by **40%**  
-- Handles **5,000+ monthly queries** with **92% user satisfaction**
+- Optimized Facebook Ads campaigns increasing engagement by **14%**
+- Reduced CPC by **11%** through A/B testing & audience analysis
+- Built automated **Looker Studio dashboards**
+- Performed keyword & competitor analytics using SEMRush
 
 ---
 
-## 📫 Connect With Me  
+### 📈 Monkey Ads — Digital Marketing Intern  
+**Jan 2022 – Apr 2022**
+
+- Conducted SEO research identifying 50+ high-impact keywords
+- Supported KPI reporting across multiple client accounts
+- Assisted campaign tracking using Google Tag Manager
+
+---
+
+## 🧠 Projects
+
+### 🤖 UTD AI Chatbot — LLM Implementation
+
+- Built academic assistant using **Llama 3.2 (3B)** + Python
+- Processed **10GB+ university data**
+- Fine-tuned using **QLoRA**
+- Improved response accuracy by **40%**
+- Handles **5,000+ monthly queries** with **92% satisfaction**
+
+---
+
+## 📜 Certifications
+
+- SnowPro Associate  
+- Google Data Analytics  
+- Google Analytics Certification  
+- Google Fundamentals of Digital Marketing  
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/krish-sonani-b39739228">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
-<a href="mailto:krishsonani8@gmail.com">
+<a href="mailto:krishsonani1000@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
 <a href="https://github.com/krishsonani27">
@@ -77,4 +104,4 @@
 </a>
 </p>
 
-⭐ *Open to Data Analyst, BI, and Financial Analytics opportunities*
+⭐ Open to Data Analyst, Marketing Analyst & BI opportunities
